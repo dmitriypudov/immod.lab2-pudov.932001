@@ -1,0 +1,11 @@
+E:\Downloads\hgghghgh\la\la\obj\Debug\la.csproj.SuggestedBindingRedirects.cache
+E:\Downloads\hgghghgh\la\la\obj\Debug\la.Form1.resources
+E:\Downloads\hgghghgh\la\la\obj\Debug\la.Properties.Resources.resources
+E:\Downloads\hgghghgh\la\la\obj\Debug\la.csproj.GenerateResource.cache
+E:\Downloads\hgghghgh\la\la\obj\Debug\la.csproj.CoreCompileInputs.cache
+E:\Downloads\hgghghgh\la\la\obj\Debug\la.csproj.AssemblyReference.cache
+E:\Downloads\hgghghgh\la\la\bin\Debug\lab2.pudov.932001.exe.config
+E:\Downloads\hgghghgh\la\la\bin\Debug\lab2.pudov.932001.exe
+E:\Downloads\hgghghgh\la\la\bin\Debug\lab2.pudov.932001.pdb
+E:\Downloads\hgghghgh\la\la\obj\Debug\lab2.pudov.932001.exe
+E:\Downloads\hgghghgh\la\la\obj\Debug\lab2.pudov.932001.pdb
